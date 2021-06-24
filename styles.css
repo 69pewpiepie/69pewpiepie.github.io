@@ -1,0 +1,38 @@
+/* Repeating background image for body */
+
+body {
+    background-image: url("bg.png");
+}
+h1 {
+      font-size:45px; color:White; text-align:center;
+}
+      
+h2 {
+      font-size:35px; color:White; text-align:center;
+}
+      
+h3 {
+      font-size:25px; color:White; text-align:center; 
+}
+      
+p {
+	font-size:20px; color:White; text-align:center; padding-top:5px; padding-bottom:5px;
+}
+
+a, ul, li, i {
+	font-size:20px; color:Yellow; text-align:center;
+}
+      
+div {
+	font-size:20px; color:White; padding-left:100px; padding-right:100px;
+}
+
+img {
+	max-width:100%; height:auto;
+}
+
+strike {
+	color:Red;
+}
+
+    
