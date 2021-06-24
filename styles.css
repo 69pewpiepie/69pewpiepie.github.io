@@ -1,7 +1,7 @@
 /* Repeating background image for body */
 
 body {
-    background-image: url("bg.png");
+    background-color: 000000;
 }
 h1 {
       font-size:45px; color:White; text-align:center;
